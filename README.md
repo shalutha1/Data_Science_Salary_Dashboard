@@ -2,7 +2,7 @@
 
 👨‍🎓Data Science Salary Analytics Dashboard using Power BI 📃 📈 
 
-I have just created my first interactive dashboard using Power BI.
+I have just created  interactive dashboard using Power BI.
 Power BI is a popular data visualization tool that allows us to create interactive dashboards and reports from various data sources. With Power BI we can explore, analyze, and share insights from our data.
 
 With the power of Power BI, I've brought together key Salary metrics, turning raw data into actionable insights for smarter decision-making.
